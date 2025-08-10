@@ -1,0 +1,190 @@
+,Age,Gender,Education_Level,Tech_Interest,AI_Knowledge_Level,Heard_of_AI_Consciousness,Can_AI_Become_Conscious,Should_Be_Considered_Individual,Working_Comfort,Should_It_Have_Rights,Threat_Assessment,Should_Governments_Regulate,Can_It_Suffer
+0,34,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+1,45,Male,Master's Degree,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+2,22,Female,High School,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,Maybe,Yes
+3,58,Male,High School,Low,I know a little,No,No,No,No,No,Low threat,"Yes, definitely",No
+4,29,Male,Bachelor's Degree,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+5,65,Female,Primary School,,Never heard of it,No,I'm not sure,No,Yes,No,Serious threat,"Yes, definitely",I don't know
+6,31,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+7,41,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+8,26,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Medium threat,Maybe,Yes
+9,50,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+10,19,Male,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Low threat,No opinion,I don't know
+11,38,Female,Bachelor's Degree,Medium,I know it well,Yes,I'm not sure,No,No,No,Medium threat,"Yes, definitely",No
+12,47,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+13,24,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+14,70,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+15,33,Male,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+16,28,Female,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,Undecided,No,Maybe,Medium threat,"Yes, definitely",I don't know
+17,42,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+18,36,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+19,21,Male,High School,Medium,I know a little,No,I'm not sure,No,Undecided,No,Medium threat,Maybe,I don't know
+20,55,Female,High School,Low,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+21,30,Male,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",I don't know
+22,48,Female,Master's Degree,Medium,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+23,62,Male,Bachelor's Degree,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+24,25,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,Maybe,Yes
+25,39,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+26,51,Female,High School,Medium,I know a little,Yes,I'm not sure,No,Undecided,No,Medium threat,"Yes, definitely",I don't know
+27,20,Male,High School,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+28,44,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+29,32,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+30,68,Female,Middle School,Low,Never heard of it,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+31,27,Male,Master's Degree,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+32,35,Female,PhD,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,Maybe,Yes
+33,46,Male,Bachelor's Degree,Medium,I know a little,No,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+34,23,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+35,59,Male,High School,Low,I know a little,No,No,No,No,No,Medium threat,"Yes, definitely",No
+36,30,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+37,40,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+38,28,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+39,53,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+40,22,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,No opinion,I don't know
+41,49,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+42,37,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,Maybe,Yes
+43,61,Male,Bachelor's Degree,Low,I know a little,Yes,No,No,Yes,No,Serious threat,"Yes, definitely",No
+44,26,Female,Master's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Medium threat,"Yes, definitely",Yes
+45,31,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+46,43,Female,Master's Degree,Medium,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+47,57,Male,High School,Low,I know a little,No,No,No,No,No,Medium threat,"Yes, definitely",No
+48,29,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+49,39,Male,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+50,24,Female,High School,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+51,52,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+52,35,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,Maybe,Yes
+53,48,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",No
+54,27,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+55,63,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,No opinion,No
+56,33,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+57,41,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+58,25,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+59,56,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+60,30,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+61,45,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+62,21,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+63,66,Male,Middle School,Low,Never heard of it,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+64,36,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,Maybe,Yes
+65,42,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+66,29,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+67,54,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+68,23,Female,High School,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+70,32,Female,Master's Degree,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+71,38,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+72,60,Male,Bachelor's Degree,Low,I know a little,Yes,No,No,Yes,No,Serious threat,"Yes, definitely",No
+73,28,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,Maybe,Yes
+74,44,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+75,34,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+76,51,Male,High School,Medium,I know a little,Yes,No,No,Undecided,No,Medium threat,"Yes, definitely",No
+77,26,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+78,40,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,Maybe,I don't know
+79,64,Male,Primary School,,Never heard of it,No,I'm not sure,No,Yes,No,Serious threat,No opinion,No
+80,22,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Low threat,"Yes, definitely",I don't know
+81,37,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+82,31,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+83,49,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",I don't know
+84,27,Female,Master's Degree,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+85,55,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+86,33,Female,PhD,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+89,58,Male,High School,Low,I know a little,No,No,No,No,No,Medium threat,"Yes, definitely",No
+91,41,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+92,20,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+95,62,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+97,43,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+98,29,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+100,36,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+101,48,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+102,24,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+103,51,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+104,32,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+105,69,Male,Primary School,,Never heard of it,No,I'm not sure,No,Yes,No,Serious threat,"Yes, definitely",I don't know
+106,26,Female,High School,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+107,38,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+108,45,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+111,42,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+112,27,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+113,61,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,No opinion,No
+114,34,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+115,40,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+116,23,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+117,50,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+118,29,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+121,47,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+122,28,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+124,33,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+125,65,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+126,30,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+129,39,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",I don't know
+130,21,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+131,54,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+136,36,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+138,22,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+139,55,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+140,30,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+141,60,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+142,34,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,Maybe,Yes
+143,46,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+145,50,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+147,68,Male,Primary School,,Never heard of it,No,I'm not sure,No,Yes,No,Serious threat,"Yes, definitely",I don't know
+148,25,Female,High School,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+149,37,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+150,43,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+151,58,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+153,49,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+155,66,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,No opinion,No
+156,35,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+158,24,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+159,51,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+165,53,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+166,31,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",I don't know
+167,64,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+168,36,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+169,45,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+171,38,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",I don't know
+172,22,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+175,47,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+176,28,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+178,37,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+180,25,Female,High School,Medium,I know a little,No,I'm not sure,Undecided,Undecided,No,Medium threat,Maybe,I don't know
+181,52,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+183,67,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+185,41,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+187,54,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+189,70,Male,Primary School,,Never heard of it,No,I'm not sure,No,Yes,No,Serious threat,"Yes, definitely",I don't know
+191,39,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+193,59,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+194,34,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+197,62,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,No opinion,No
+202,31,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+205,45,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+211,46,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+213,37,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",I don't know
+216,32,Female,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+219,64,Male,High School,Low,I know a little,No,No,No,Yes,No,Serious threat,No opinion,No
+220,38,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+221,42,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+223,57,Male,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Medium threat,"Yes, definitely",I don't know
+228,26,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+229,56,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+232,23,Female,High School,Medium,I know a little,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+233,40,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+234,44,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+245,55,Male,High School,Low,I know a little,No,No,No,No,No,Medium threat,"Yes, definitely",No
+246,36,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,Maybe,Yes
+251,66,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+252,34,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+253,48,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+257,52,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+259,46,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+267,69,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
+271,57,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Medium threat,"Yes, definitely",Yes
+275,41,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,No,No,No threat at all,"Yes, definitely",No
+287,56,Male,High School,Low,I know a little,No,No,No,No,No,Medium threat,"Yes, definitely",No
+293,68,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,Maybe,No
+294,32,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Undecided,No,Maybe,Low threat,"Yes, definitely",Yes
+295,47,Male,PhD,Expert,I am an expert,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+298,23,Female,Bachelor's Degree,High,I know it well,Yes,Yes,Yes,No,Maybe,Low threat,"Yes, definitely",Yes
+299,53,Male,Bachelor's Degree,Medium,I know a little,Yes,No,No,Yes,No,Medium threat,"Yes, definitely",No
+301,45,Male,Master's Degree,High,I know it well,Yes,I'm not sure,Undecided,Undecided,Maybe,Medium threat,"Yes, definitely",I don't know
+311,44,Male,Bachelor's Degree,Medium,I know a little,Yes,I'm not sure,No,No,No,Low threat,"Yes, definitely",I don't know
+318,46,Female,Master's Degree,High,I know it well,Yes,Yes,Yes,No,Definitely yes,Low threat,"Yes, definitely",Yes
+351,68,Male,Middle School,Low,I know a little,No,No,No,Yes,No,Serious threat,"Yes, definitely",No
